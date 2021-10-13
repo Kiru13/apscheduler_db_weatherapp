@@ -1,0 +1,31 @@
+country,city,temperature,humidity,pressure,temperature_max,temperature_min,feels_like,wind_deg,wind_speed,latitude,longitude,weather,weather_description
+IN,Anekal,294.88,91,1010,295.98,294.88,295.48,270,2.75,12.7,77.7,Clouds,overcast clouds
+IN,Bengaluru,294.95,100,1012,296.05,294.95,295.8,240,2.06,12.9762,77.6033,Drizzle,light intensity drizzle
+IN,Kanija Bhavan,294.89,100,1012,295.99,294.89,295.73,240,2.06,12.9836,77.5847,Drizzle,light intensity drizzle
+IN,Hosūr,295.1,91,1009,296.21,295.1,295.73,273,3,12.7167,77.8167,Rain,light rain
+IN,Bāgalūr,295.45,90,1009,296.55,295.45,296.09,273,3.09,12.8333,77.8667,Rain,moderate rain
+IN,Closepet,296.32,91,1009,297.43,296.32,297.07,260,2.11,12.7167,77.3,Clouds,overcast clouds
+IN,Kānkānhalli,296.73,90,1009,296.73,296.73,297.49,265,1.73,12.55,77.4167,Clouds,overcast clouds
+IN,Yelahanka,296.2,88,1012,296.2,295.1,296.86,0,1.03,13.1075,77.6003,Drizzle,light intensity drizzle
+IN,Kelamangalam,295.78,90,1009,296.88,295.78,296.45,270,2.61,12.6,77.85,Rain,moderate rain
+IN,Hoskote,296.26,88,1012,296.26,295.16,296.92,0,1.03,13.0669,77.7983,Drizzle,light intensity drizzle
+IN,Denkanikota,295.33,91,1009,295.33,295.33,295.98,268,2.34,12.5333,77.8,Rain,moderate rain
+IN,Nelamangala,295.16,91,1010,296.26,295.16,295.79,268,2.32,13.1022,77.39,Clouds,overcast clouds
+IN,Mālūr,295.03,90,1009,296.13,295.03,295.62,272,3.06,13.0075,77.9378,Rain,moderate rain
+IN,Māgadi,295.24,90,1010,296.34,295.24,295.85,268,2.16,12.9667,77.2333,Clouds,overcast clouds
+IN,Channapatna,296.55,91,1009,296.55,296.55,297.32,255,2.1,12.65,77.2167,Clouds,overcast clouds
+IN,BIAL 2 Wheeler Parking,296.16,88,1012,296.16,295.05,296.81,0,1.03,13.198,77.706,Rain,moderate rain
+IN,Devanahalli,296.28,88,1012,296.28,295.18,296.95,0,1.03,13.2325,77.6992,Rain,moderate rain
+IN,Dod Ballāpur,296.16,91,1010,296.16,295.06,296.89,267,2.34,13.2919,77.5431,Rain,light rain
+IN,Vadigenhalli,296.27,88,1012,296.27,295.17,296.94,0,1.03,13.2936,77.8017,Rain,moderate rain
+IN,Maddūr,295.06,92,1009,295.06,295.06,295.71,250,2.52,12.6,77.0667,Clouds,overcast clouds
+IN,Mārāndahalli,296.17,88,1009,296.17,296.17,296.83,263,1.97,12.4,78,Rain,heavy intensity rain
+IN,Kunigal,295.88,90,1009,295.88,295.88,296.56,270,2.25,13.0222,77.0267,Clouds,overcast clouds
+IN,Bangarapet,295.6,90,1009,296.7,295.6,296.25,283,2.64,12.9667,78.2,Rain,heavy intensity rain
+IN,Kolār,296.57,88,1009,296.57,295.46,297.27,280,2.67,13.1333,78.1333,Rain,moderate rain
+IN,Sidlaghatta,296.2,87,1009,296.2,295.09,296.83,273,2.3,13.3881,77.8628,Rain,moderate rain
+IN,Chik Ballāpur,296.05,87,1009,296.05,294.94,296.67,270,2.01,13.4342,77.7242,Rain,moderate rain
+IN,Malavalli,295,91,1009,295,295,295.62,244,2.62,12.3833,77.0833,Clouds,overcast clouds
+IN,Krishnagiri,297.02,84,1009,297.02,297.02,297.66,276,1.9,12.5333,78.2333,Rain,moderate rain
+IN,Robertsonpet,295.55,90,1009,296.65,295.55,296.2,285,2.52,12.9667,78.2833,Rain,heavy intensity rain
+IN,Pālakkodu,296.9,86,1009,296.9,296.9,297.58,252,1.59,12.3,78.0833,Rain,heavy intensity rain
