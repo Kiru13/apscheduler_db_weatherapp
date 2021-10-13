@@ -1,7 +1,5 @@
 # Weather Infilect Django App
 
-### Preview : https://weatherinfilect.herokuapp.com/
-
 ## Fork:
 
 * Fork this project or clone it to access all related files
